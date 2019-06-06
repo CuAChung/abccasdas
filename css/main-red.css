@@ -738,7 +738,7 @@ ul.social-links li:last-child a {
   width: 3px;
 }
 
-.menu-icon {
+.fa {
   display: block;
   font-size: 21px;
   margin-bottom: 3px;
@@ -1461,7 +1461,7 @@ ul.social-links li:last-child a {
 .contact-info-block .ci-icon {
   position: absolute;
   top: 50%;
-  margin-top: -15px;
+  margin-top: -10px;
 }
 
 .ci-text {
@@ -1473,9 +1473,9 @@ ul.social-links li:last-child a {
   margin: 5px 0;
 }
 
-.contact-info-block .pe-7s-icon {
+.contact-info-block .fa {
   position: relative;
-  font-size: 30px;
+  font-size: 20px;
   color: #ff724c;
 }
 /* /Contact info */
